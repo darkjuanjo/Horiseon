@@ -12,6 +12,9 @@ According to the Challenge the HTML code and CSS code were reviewed to add any m
 **Below are <span style="color:red">ONLY fragments</span> of the code changes listed above.<br />**
 To see all the changes please see the html and css code in [Horiseon html code](https://github.com/darkjuanjo/Horiseon)
 
+To see the webpage in brower please click the following link: <br/>
+[Horiseon website](https://darkjuanjo.github.io/Horiseon/)
+
 ```
 See below for example HTML changes
 <div class="header">  <!--Changed div to header in-->

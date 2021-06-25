@@ -1,5 +1,12 @@
 # Code Refactor Starter Code
-According to the Challenge the HTML code and CSS code were reviewed to add any missing functionality and to optimize the code by removing redundant fragments of code and consolidation them into a single class.
+According to the Challenge the HTML code and CSS code were reviewed to add any missing functionality and to optimize the code by removing redundant fragments of code and consolidation them into a single class. See check list below <br/>
+
+### Check List
+- [✓] Add HTML semantics
+- [✓] Structurized HTML logically
+- [✓] Add alt text to images
+- [✓] Check headings are in sequential order
+- [✓] Title of webpage is concise
 
 ### Changes done
 1. Added semantics to meet accessibility standards.
